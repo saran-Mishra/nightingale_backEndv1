@@ -1,0 +1,25 @@
+user_ID,type,email,password,phone_number,name_first ,name_last,birthday,volunteering_Radius_in_MI,gender,bio,has_car,occupation,considered_Emergency
+1,1,user1@somemail.com,password,111-111-1111,user1,userlast1,6/14/2020,1,male,hi I'm a dummy user,1,student,1
+2,1,user2@somemail.com,password,111-111-1112,user2,userlast2,6/13/2020,2,female,hi I'm a dummy user,0,student,1
+3,1,user3@somemail.com,password,111-111-1113,user3,userlast3,6/12/2020,3,male,hi I'm a dummy user,1,student,1
+4,1,user1@somemail.com,password,111-111-1114,user4,userlast4,6/13/2020,4,female,hi I'm a dummy user,0,student,0
+5,1,user2@somemail.com,password,111-111-1115,user5,userlast5,6/12/2020,5,male,hi I'm a dummy user,0,student,0
+6,1,user3@somemail.com,password,111-111-1116,user6,userlast6,6/13/2020,6,female,hi I'm a dummy user,1,student,0
+7,1,user1@somemail.com,password,111-111-1117,user7,userlast7,6/12/2020,7,male,hi I'm a dummy user,0,student,1
+8,1,user2@somemail.com,password,111-111-1118,user8,userlast8,6/13/2020,8,female,hi I'm a dummy user,1,student,1
+9,1,user3@somemail.com,password,111-111-1119,user9,userlast9,6/12/2020,9,male,hi I'm a dummy user,0,student,1
+10,1,user1@somemail.com,password,111-111-1120,user10,userlast10,6/13/2020,10,female,hi I'm a dummy user,1,student,0
+11,1,user2@somemail.com,password,111-111-1121,user11,userlast11,6/12/2020,11,male,hi I'm a dummy user,0,student,0
+12,1,user3@somemail.com,password,111-111-1122,user12,userlast12,6/13/2020,12,female,hi I'm a dummy user,1,student,0
+13,1,user1@somemail.com,password,111-111-1123,user13,userlast13,6/12/2020,13,male,hi I'm a dummy user,0,student,1
+14,1,user2@somemail.com,password,111-111-1124,user14,userlast14,6/13/2020,14,female,hi I'm a dummy user,1,student,1
+15,1,user3@somemail.com,password,111-111-1125,user15,userlast15,6/12/2020,15,male,hi I'm a dummy user,0,student,1
+16,1,user1@somemail.com,password,111-111-1126,user16,userlast16,6/13/2020,16,female,hi I'm a dummy user,1,student,0
+17,1,user2@somemail.com,password,111-111-1127,user17,userlast17,6/12/2020,17,male,hi I'm a dummy user,0,student,0
+18,1,user3@somemail.com,password,111-111-1128,user18,userlast18,6/13/2020,18,female,hi I'm a dummy user,1,student,0
+19,1,user1@somemail.com,password,111-111-1129,user19,userlast19,6/12/2020,19,male,hi I'm a dummy user,0,student,1
+20,1,user2@somemail.com,password,111-111-1130,user20,userlast20,6/13/2020,20,female,hi I'm a dummy user,1,student,1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,0
